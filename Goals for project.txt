@@ -1,0 +1,7 @@
+Goals For Project
+
+Initially would like to obtain football social media data and compare that with the particular teams performance.
+
+Use machine learning pipelines to look for patterns in the data, potentially a classification model which will predict whether a team will go up in their league or down based on social media followers. i.e. if a team is "successful" on social media and gains followers, is this a predictor of club performance.
+
+First tidy up and format the data. Understand it and perform Exploratory Data Analysis. 
